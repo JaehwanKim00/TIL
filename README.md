@@ -1,0 +1,2 @@
+# TIL
+Tableau &amp; SQL 
